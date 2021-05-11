@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1620632034 source:e:\c\codeblocks\traccia 1\main.c
+	<stdio.h>
+	<time.h>
+
