@@ -1,4 +1,6 @@
 # depslib dependency file v1.0
-1620772403 source:e:\c\codeblocks\traccia 1\main.c
+1621048428 source:e:\c\codeblocks\traccia 1\main.c
 	<stdio.h>
+	<stdlib.h>
+	<string.h>
 
